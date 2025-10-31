@@ -37,5 +37,6 @@ Se incluyen algunas textures reales y se puede seguir cada planeta de manera ind
 ## Links 
 
 [Link al vídeo](https://drive.google.com/file/d/1GEmERJWQEL_XIAE2Zn3cwbNX7sI5FZRf/view?usp=sharing)
-[Link al codesandbox](https://ejemplo.com](https://codesandbox.io/p/sandbox/ig2526-entrega-sistema-solar-ydjfrz)
+
+[Link al codesandbox](https://codesandbox.io/p/sandbox/ig2526-entrega-sistema-solar-ydjfrz)
 
